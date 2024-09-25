@@ -84,7 +84,7 @@ PYTHONPATH=your_project_pth \
 python evaluate.py \
     -p "folder with experiment finished" \
     -m "llama_vllm" \
-    -c 2W
+    -c 2
 ```
 
 ## Publications
