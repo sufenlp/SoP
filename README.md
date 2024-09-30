@@ -9,7 +9,7 @@ Install all the packages from requirments.txt
 ```
 conda create -n sop python=3.10 -y
 conda activate sop
-git clone https://github.com/Yang-Yan-Yang-Yan/SoP.git
+git clone https://github.com/sufenlp/SoP.git
 cd SoP
 pip install -r requirements.txt
 ```
